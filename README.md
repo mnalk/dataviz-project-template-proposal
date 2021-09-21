@@ -8,11 +8,11 @@ References United Nations Development Program. (2018). Human development index (
 
 World Bank. (2018). World development indicators: GDP (current US$) by country:1985 to 2016. Retrieved from http://databank.worldbank.org/data/source/world-development-indicators#
 
-[Szamil]. (2017). Suicide in the Twenty-First Century [dataset]. Retrieved from https://www.kaggle.com/szamil/suicide-in-the-twenty-first-century/notebook
+[Szamil]. (2017). Suicide in the Twenty-First Century [dataset]. Retrieved from [source](https://www.kaggle.com/szamil/suicide-in-the-twenty-first-century/notebook)
 
-World Health Organization. (2018). Suicide prevention. Retrieved from http://www.who.int/mental_health/suicide-prevention/en/
+World Health Organization. (2018). Suicide prevention. Retrieved from [source](http://www.who.int/mental_health/suicide-prevention/en/)
 
-[Inspiration Suicide Prevention].(https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016?select=master.csv)
+[Inspiration Suicide Prevention](https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016?select=master.csv)
 
 ## Prototypes
 
