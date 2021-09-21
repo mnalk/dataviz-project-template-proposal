@@ -2,9 +2,49 @@
 
 ## Data
 
-The data I propose to visualize for my project is ...
+The data I propose to visualize for my project is dataset pulled from four other datasets linked by time and place, and was built to find signals correlated to increased suicide rates among different cohorts globally, across the socio-economic spectrum.
+
+References United Nations Development Program. (2018). Human development index (HDI). Retrieved from http://hdr.undp.org/en/indicators/137506
+
+World Bank. (2018). World development indicators: GDP (current US$) by country:1985 to 2016. Retrieved from http://databank.worldbank.org/data/source/world-development-indicators#
+
+[Szamil]. (2017). Suicide in the Twenty-First Century [dataset]. Retrieved from https://www.kaggle.com/szamil/suicide-in-the-twenty-first-century/notebook
+
+World Health Organization. (2018). Suicide prevention. Retrieved from http://www.who.int/mental_health/suicide-prevention/en/
+
+Inspiration Suicide Prevention.
+
+https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016?select=master.csv
 
 ## Prototypes
+
+First , I study the suicide consepnt then I reviewd several sources to learn which attubuites are more importenlt than others.
+
+Here are my attempets to understand the suicide consepnt
+
+
+1)Number with depression by country
+https://vizhub.com/mnalk/fea0c634364d46ed8fd79d08eb72947c (Links to an external site.)
+How many people in each country have depression?
+
+
+Sketch for dataset(Number with depression by country) was a process of steps that inspierd me from 
+[source]https://drive.google.com/file/d/1NCOTkhhsna9SWYfg8CBFj2H690CpC4hv/view?usp=sharing
+[source]https://drive.google.com/file/d/1_8XG48Z8timFpfSb7P3kl1ZauzUSeYGc/view?usp=sharing
+[sourcehttps://drive.google.com/file/d/1zGlNXhuhS_bkPF_lhgWrh4I864fhVawl/view?usp=sharing
+===============
+
+2)Suicide rates vs prevalence of depressive disorder rates
+https://vizhub.com/mnalk/701a3a02e67641209795feeeb26c1493 (Links to an external site.)
+
+Does depressoin leads to suicide? What percentage?
+
+===============
+
+3)Prevalence of depression by age
+https://vizhub.com/mnalk/64d20bde9bfd4b83a84cdcc4c8fa00b8 (Links to an external site.)
+
+Which age group has more depression?
 
 I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
 
@@ -19,7 +59,7 @@ You can make images into links like this:
 ```
 
 
-Also, you can study the [source](https://raw.githubusercontent.com/curran/dataviz-project-template-proposal/master/README.md) to figure out Markdown formatting. You can use the GitHub built-in editor to edit the document.
+Also, you can find the proof of concept visualization of this data here [source]https://vizhub.com/mnalk/86cf45b181914194852f165c5146c597
 
 ## Questions & Tasks
 
