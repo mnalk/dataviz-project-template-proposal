@@ -56,9 +56,11 @@ https://gist.githubusercontent.com/mnalk/9774fb9b221cfad2d21c387ff2e417ca/raw/fe
 
 I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
 
+
 ```
-[![image](https://user-images.githubusercontent.com/70254281/134230262-e45512e2-eaca-42ac-9a20-e2f7203db59e.GIF)](https://vizhub.com/mnalk/86cf45b181914194852f165c5146c597)
+[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
 ```
+
 
 ## Questions & Tasks
 
