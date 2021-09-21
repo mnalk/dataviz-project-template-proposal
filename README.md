@@ -31,6 +31,7 @@ Sketch for dataset(Number with depression by country)was a process to creat idea
 [3)Sheet5 Realization design focus](https://drive.google.com/file/d/1zGlNXhuhS_bkPF_lhgWrh4I864fhVawl/view?usp=sharing)
 
 =================
+
 2)[Data set : Suicide rates vs prevalence of depressive disorder rates in vizhub](https://vizhub.com/mnalk/701a3a02e67641209795feeeb26c1493)
 This dataset help us to answer if depressoin leads to suicide? then what percentage?
 
@@ -38,6 +39,7 @@ This dataset help us to answer if depressoin leads to suicide? then what percent
 [csv file:](https://gist.github.com/mnalk/b84ad44d70b8ac709d1cefc01403a683#file-suicide_rates_vs_prevalence_of_depressive_disorder_rates-csv)
 
 ================
+
 3)[Data set : Prevalence of depression by age in vizhub](https://vizhub.com/mnalk/64d20bde9bfd4b83a84cdcc4c8fa00b8)
 This dataset help us to answer Which age group has more depression?
 
@@ -45,7 +47,8 @@ This dataset help us to answer Which age group has more depression?
 [csv file:](https://gist.github.com/mnalk/d869d823ccb0ec67cfaecd3939469e39#file-prevalence-of-depression-by-age-csv)
 
 =================
-Second, I looked to a more depth dataset with the same goal: why do some countries have more suicides than other countries and why?. Then I updated the dataset to include world development indicators: GDP (current US$) by country:1985 to 2016. Retrieved from http://databank.worldbank.org/data/source/world-development-indicators#.
+
+Second, I looked to a more depth dataset with the same goal: why do some countries have more suicides than other countries and why?. Then I updated the dataset to include world development indicators: GDP (current US$) by country:1985 to 2016. Retrieved from [source](http://databank.worldbank.org/data/source/world-development-indicators#).
 
 This indicator would help us to improve tasks and questions regarding suicide among countries. For example, if suicide is high in one country, we would like to know if this is related to low GDP for that specific country.[Readme](https://gist.github.com/mnalk/9774fb9b221cfad2d21c387ff2e417ca#file-readme-md),and [csv file](
 https://gist.githubusercontent.com/mnalk/9774fb9b221cfad2d21c387ff2e417ca/raw/feb0bb276f8606781d781a3af18a6e32e3fc418e/Suicide_Rates.csv) explain the new features.
@@ -53,18 +56,9 @@ https://gist.githubusercontent.com/mnalk/9774fb9b221cfad2d21c387ff2e417ca/raw/fe
 
 I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
 
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
-
-(please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments, and link to them)
-
-You can make images into links like this:
-
 ```
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
+[![image](https://user-images.githubusercontent.com/70254281/134230262-e45512e2-eaca-42ac-9a20-e2f7203db59e.GIF)](https://vizhub.com/mnalk/86cf45b181914194852f165c5146c597)
 ```
-
-
-Also, you can find the proof of concept visualization of this data here [source]https://vizhub.com/mnalk/86cf45b181914194852f165c5146c597
 
 ## Questions & Tasks
 
