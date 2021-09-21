@@ -1,3 +1,4 @@
+
 # Data Visualization Project
 
 ## Data
@@ -57,10 +58,7 @@ https://gist.githubusercontent.com/mnalk/9774fb9b221cfad2d21c387ff2e417ca/raw/fe
 I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
 
 
-```
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
-```
-
+[![image](https://user-images.githubusercontent.com/70254281/134232441-34cf632a-9233-4227-b8d6-7a84c44f8ddd.GIF)](https://vizhub.com/mnalk/86cf45b181914194852f165c5146c597)
 
 ## Questions & Tasks
 
