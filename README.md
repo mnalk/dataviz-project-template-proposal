@@ -18,10 +18,10 @@ First, I studied the suicide concept, and then I reviewed several sources to lea
 
 Here are my attempts to understand the suicide consent :
 
-1)[Data set : Number with depression by country](https://vizhub.com/mnalk/fea0c634364d46ed8fd79d08eb72947c)
+1)[Data set : Number with depression by country in vizhub](https://vizhub.com/mnalk/fea0c634364d46ed8fd79d08eb72947c)
 This data set help to understand how many people in each country have depression.
 
-[Dataset description:](https://gist.github.com/mnalk/55e775e87b4232179fdd45a1db9ec129)
+[Dataset description:](https://gist.github.com/mnalk/55e775e87b4232179fdd45a1db9ec129#file-readme-md)
 [csv file:](https://gist.github.com/mnalk/55e775e87b4232179fdd45a1db9ec129#file-number-with-depression-by-country-csv)
 
 Sketch for dataset(Number with depression by country)was a process to creat ideas below. The methodology used is [five design sheet](http://fds.design/)
@@ -31,20 +31,25 @@ Sketch for dataset(Number with depression by country)was a process to creat idea
 [3)Sheet5 Realization design focus](https://drive.google.com/file/d/1zGlNXhuhS_bkPF_lhgWrh4I864fhVawl/view?usp=sharing)
 
 =================
+2)[Data set : Suicide rates vs prevalence of depressive disorder rates in vizhub](https://vizhub.com/mnalk/701a3a02e67641209795feeeb26c1493)
+This dataset help us to answer if depressoin leads to suicide? then what percentage?
 
-2)Suicide rates vs prevalence of depressive disorder rates
-https://vizhub.com/mnalk/701a3a02e67641209795feeeb26c1493 (Links to an external site.)
+[Dataset description:](https://gist.github.com/mnalk/b84ad44d70b8ac709d1cefc01403a683#file-readme-md)
+[csv file:](https://gist.github.com/mnalk/b84ad44d70b8ac709d1cefc01403a683#file-suicide_rates_vs_prevalence_of_depressive_disorder_rates-csv)
 
-Does depressoin leads to suicide? What percentage?
+================
+3)[Data set : Prevalence of depression by age in vizhub](https://vizhub.com/mnalk/64d20bde9bfd4b83a84cdcc4c8fa00b8)
+This dataset help us to answer Which age group has more depression?
 
+[Dataset description:](https://gist.github.com/mnalk/d869d823ccb0ec67cfaecd3939469e39#file-readme-md)
+[csv file:](https://gist.github.com/mnalk/d869d823ccb0ec67cfaecd3939469e39#file-prevalence-of-depression-by-age-csv)
 
+=================
+Second, I looked to a more depth dataset with the same goal: why do some countries have more suicides than other countries and why?. Then I updated the dataset to include world development indicators: GDP (current US$) by country:1985 to 2016. Retrieved from http://databank.worldbank.org/data/source/world-development-indicators#.
 
-===============
+This indicator would help us to improve tasks and questions regarding suicide among countries. For example, if suicide is high in one country, we would like to know if this is related to low GDP for that specific country.[Readme](https://gist.github.com/mnalk/9774fb9b221cfad2d21c387ff2e417ca#file-readme-md),and [csv file](
+https://gist.githubusercontent.com/mnalk/9774fb9b221cfad2d21c387ff2e417ca/raw/feb0bb276f8606781d781a3af18a6e32e3fc418e/Suicide_Rates.csv) explain the new features.
 
-3)Prevalence of depression by age
-https://vizhub.com/mnalk/64d20bde9bfd4b83a84cdcc4c8fa00b8 (Links to an external site.)
-
-Which age group has more depression?
 
 I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
 
