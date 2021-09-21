@@ -12,26 +12,25 @@ World Bank. (2018). World development indicators: GDP (current US$) by country:1
 
 World Health Organization. (2018). Suicide prevention. Retrieved from http://www.who.int/mental_health/suicide-prevention/en/
 
-Inspiration Suicide Prevention.
-
-https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016?select=master.csv
+[Inspiration Suicide Prevention].(https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016?select=master.csv)
 
 ## Prototypes
 
-First , I study the suicide consepnt then I reviewd several sources to learn which attubuites are more importenlt than others.
+First, I studied the suicide concept, and then I reviewed several sources to learn which attributes are more important than others.
 
-Here are my attempets to understand the suicide consepnt
+Here are my attempts to understand the suicide consent :
 
+1)[Data set : Number with depression by country](https://vizhub.com/mnalk/fea0c634364d46ed8fd79d08eb72947c)
+This data set help to understand how many people in each country have depression.
 
-1)Number with depression by country
-https://vizhub.com/mnalk/fea0c634364d46ed8fd79d08eb72947c (Links to an external site.)
-How many people in each country have depression?
+[Dataset description:](https://gist.github.com/mnalk/55e775e87b4232179fdd45a1db9ec129)
+[csv file:](https://gist.github.com/mnalk/55e775e87b4232179fdd45a1db9ec129#file-number-with-depression-by-country-csv)
 
+Sketch for dataset(Number with depression by country)was a process to creat ideas below. The methodology used is [five design sheet](http://fds.design/)
 
-Sketch for dataset(Number with depression by country) was a process of steps that inspierd me from 
-[source]https://drive.google.com/file/d/1NCOTkhhsna9SWYfg8CBFj2H690CpC4hv/view?usp=sharing
-[source]https://drive.google.com/file/d/1_8XG48Z8timFpfSb7P3kl1ZauzUSeYGc/view?usp=sharing
-[sourcehttps://drive.google.com/file/d/1zGlNXhuhS_bkPF_lhgWrh4I864fhVawl/view?usp=sharing
+[1)Sheet1 brain storm Ideas, Filter, Categorize, Combine/Refine, Question](https://drive.google.com/file/d/1NCOTkhhsna9SWYfg8CBFj2H690CpC4hv/view?usp=sharing)
+[2)detailed information layout](https://drive.google.com/file/d/1_8XG48Z8timFpfSb7P3kl1ZauzUSeYGc/view?usp=sharing)
+[3)Sheet5 Realization design focus](https://drive.google.com/file/d/1zGlNXhuhS_bkPF_lhgWrh4I864fhVawl/view?usp=sharing)
 
 =================
 
@@ -39,6 +38,8 @@ Sketch for dataset(Number with depression by country) was a process of steps tha
 https://vizhub.com/mnalk/701a3a02e67641209795feeeb26c1493 (Links to an external site.)
 
 Does depressoin leads to suicide? What percentage?
+
+
 
 ===============
 
