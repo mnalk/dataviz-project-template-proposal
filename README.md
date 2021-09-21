@@ -2,7 +2,7 @@
 
 ## Data
 
-The data I propose to visualize for my project is dataset pulled from four other datasets linked by time and place, and was built to find signals correlated to increased suicide rates among different cohorts globally, across the socio-economic spectrum.
+The data I propose to visualize for my project is dataset pulled from four other datasets linked by year and country, and was built to find signals correlated to increased suicide rates among different cohorts globally, across the socio-economic spectrum.
 
 References United Nations Development Program. (2018). Human development index (HDI). Retrieved from http://hdr.undp.org/en/indicators/137506
 
@@ -32,7 +32,8 @@ Sketch for dataset(Number with depression by country) was a process of steps tha
 [source]https://drive.google.com/file/d/1NCOTkhhsna9SWYfg8CBFj2H690CpC4hv/view?usp=sharing
 [source]https://drive.google.com/file/d/1_8XG48Z8timFpfSb7P3kl1ZauzUSeYGc/view?usp=sharing
 [sourcehttps://drive.google.com/file/d/1zGlNXhuhS_bkPF_lhgWrh4I864fhVawl/view?usp=sharing
-===============
+
+=================
 
 2)Suicide rates vs prevalence of depressive disorder rates
 https://vizhub.com/mnalk/701a3a02e67641209795feeeb26c1493 (Links to an external site.)
