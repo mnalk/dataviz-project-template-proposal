@@ -55,7 +55,8 @@ This indicator would help us to improve tasks and questions regarding suicide am
 https://gist.githubusercontent.com/mnalk/9774fb9b221cfad2d21c387ff2e417ca/raw/feb0bb276f8606781d781a3af18a6e32e3fc418e/Suicide_Rates.csv) explain the new features.
 
 
-I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
+I’ve created a proof of concept visualization of this data. It's a suicide rates visualization and it shows suicide rates among the countries differ widely. Russian seems the highest among other countries, and we can see that Russia only has 22338 suicides number. Unfortunately, we can't tell which gender committed suicides in this visualization and which year in specific.
+For example, it would be helpful to capture that male gender numbers who committed suicides in Russia were 22338 in 1994. This would help researchers find out other factors that affected males in particular in 1994.
 
 
 [![image](https://user-images.githubusercontent.com/70254281/134232441-34cf632a-9233-4227-b8d6-7a84c44f8ddd.GIF)](https://vizhub.com/mnalk/86cf45b181914194852f165c5146c597)
@@ -64,10 +65,12 @@ I’ve created a proof of concept visualization of this data. It's a ... and it 
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * (insert your question or task here) How does the X vary over time?
- * (insert your question or task here) Is there any correlation between X and Y?
- * (insert your question or task here) Are there interesting spatial patterns in X?
- * (insert your question or task here) How many X are there across different Y?
+1)How many people are suicide in each country?
+2)Which age group has more suicide rates?
+3)Does low GDP per capita leads to suicide? What percentage? .Note(GDP per capita is calculated using a country's GDP in 2012 United States dollars (USD) which is then divided by the country's total population.)
+4)Who is more tend to suicide, male or female? .Note(Statistics. The incidence of completed suicide is vastly higher among males than females among all age groups in most of the world. As of 2015, almost two-thirds of worldwide suicides (representing about 1.5% of all deaths) are by men.)
+5)Is there any correlation between males who are suicide and GDP per capita for a specific country?
+
 
 ## Sketches
 
@@ -75,5 +78,6 @@ The following tasks and questions will drive the visualization and interaction d
 (describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
 
 ## Open Questions
-
-(describe any fear, uncertainty, or doubt you’re having about the feasibility of implementing the sketched system. For example, “I’m not sure where to get the geographic shapes to build a map from this data” or “I don’t know how to resolve the codes to meaningful names” … Feel free to delete this section if you’re confident.)
+I don’t know how to resolve the Y axis due to the large number of countries per year. For example, the USA has data from 1985 to 2015? (30 years of suicide rate)?
+I don't know if I should resize something like the bar itself or the font size? I still working on this part.
+I don't know with a large dataset should I change the color for each bar? but the question is how many colores are enough?
