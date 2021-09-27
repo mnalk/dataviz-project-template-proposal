@@ -19,7 +19,7 @@ First, I studied the suicide concept, and then I reviewed several sources to lea
 
 Here are my attempts to understand the suicide consent :
 
-1)[Data set : Number with depression by country in vizhub](https://vizhub.com/mnalk/fea0c634364d46ed8fd79d08eb72947c)
+1)[Data set : Number with depression by country in vizhub](https://vizhub.com/mnalk/e116a887f76a43fbb5d0025e4e30b7aa)
 This data set help to understand how many people in each country have depression.
 
 [Dataset description:](https://gist.github.com/mnalk/55e775e87b4232179fdd45a1db9ec129#file-readme-md)
