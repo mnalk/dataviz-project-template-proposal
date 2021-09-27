@@ -84,4 +84,4 @@ The following tasks and questions will drive the visualization and interaction d
 ## Open Questions
 * 1)I don’t know how to resolve the Y axis due to the large number of countries per year. For example, the USA has data from 1985 to 2015? (30 years of suicide rate)?
 * 2)I don't know if I should resize something like the bar itself or the font size? I still working on this part.
-* 3)I don't know with a large dataset should I change the color for each bar? but the question is how many colores are enough?
+* 3)I don't know with a large dataset should I change the color for each bar? but the question is how many colors can human preserve?
