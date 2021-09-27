@@ -65,11 +65,11 @@ For example, it would be helpful to capture that male gender numbers who committ
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
-*  1)How many people are suicide in each country?
-* 2)Which age group has more suicide rates?
-* 3)Does low GDP per capita leads to suicide? What percentage? .Note(GDP per capita is calculated using a country's GDP in 2012 United States dollars (USD) which is then divided by the country's total population.)
-* 4)Who is more tend to suicide, male or female? .Note(Statistics. The incidence of completed suicide is vastly higher among males than females among all age groups in most of the world. As of 2015, almost two-thirds of worldwide suicides (representing about 1.5% of all deaths) are by men.)
-* 5)Is there any correlation between males who are suicide and GDP per capita for a specific country?
+* How many people are suicide in each country?
+* Which age group has more suicide rates?
+* Does low GDP per capita leads to suicide? What percentage? .Note(GDP per capita is calculated using a country's GDP in 2012 United States dollars (USD) which is then divided by the country's total population.)
+* Who is more tend to suicide, male or female? .Note(Statistics. The incidence of completed suicide is vastly higher among males than females among all age groups in most of the world. As of 2015, almost two-thirds of worldwide suicides (representing about 1.5% of all deaths) are by men.)
+* Is there any correlation between males who are suicide and GDP per capita for a specific country?
 
 
 ## Sketches
