@@ -42,7 +42,7 @@ This dataset help us to answer how many people in specfic year have suicided per
 ================
 
 3)[Data set : Prevalence of depression by age in vizhub](https://vizhub.com/mnalk/e0665cc83fa34b4eac18031abb66f77e)
-This dataset help us to answer Which age group has more depression?
+This dataset help us to answer which age group has more depression?
 
 [Dataset description:](https://gist.github.com/mnalk/d869d823ccb0ec67cfaecd3939469e39#file-readme-md)
 [csv file:](https://gist.github.com/mnalk/d869d823ccb0ec67cfaecd3939469e39#file-prevalence-of-depression-by-age-csv)
