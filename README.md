@@ -78,10 +78,10 @@ The following tasks and questions will drive the visualization and interaction d
 ![image](https://user-images.githubusercontent.com/70254281/134373006-83e46552-e38d-4bed-a7e7-fdc8f625cf44.jpeg)
 
 * 1- Selesct the year then select age grpup. 
-* 2-Zoom and pan on the map.
+* 2- Zoom and pan on the map.
 * 3- Find out the suicides rate on female/male and the GDP.
 
 ## Open Questions
-* 1)I don’t know how to resolve the Y axis due to the large number of countries per year. For example, the USA has data from 1985 to 2015? (30 years of suicide rate)?
-* 2)I don't know if I should resize something like the bar itself or the font size? I still working on this part.
-* 3)I don't know with a large dataset should I change the color for each bar? but the question is how many colors can human preserve?
+* I don’t know how to resolve the Y axis due to the large number of countries per year. For example, the USA has data from 1985 to 2015? (30 years of suicide rate)?
+* I don't know if I should resize something like the bar itself or the font size? I still working on this part.
+* I don't know with a large dataset should I change the color for each bar? but the question is how many colors can human preserve?
