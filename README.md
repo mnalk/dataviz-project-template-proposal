@@ -41,7 +41,7 @@ This dataset help us to answer if depressoin leads to suicide? then what percent
 
 ================
 
-3)[Data set : Prevalence of depression by age in vizhub](https://vizhub.com/mnalk/64d20bde9bfd4b83a84cdcc4c8fa00b8)
+3)[Data set : Prevalence of depression by age in vizhub](https://vizhub.com/mnalk/e0665cc83fa34b4eac18031abb66f77e)
 This dataset help us to answer Which age group has more depression?
 
 [Dataset description:](https://gist.github.com/mnalk/d869d823ccb0ec67cfaecd3939469e39#file-readme-md)
