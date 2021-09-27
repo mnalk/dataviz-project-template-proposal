@@ -1,9 +1,9 @@
 
-# Data Visualization Project
+# Data Visualization Project Name : Suicide prevention visualization project
 
 ## Data
 
-The data I propose to visualize for my project is dataset pulled from four other datasets linked by year and country, and was built to find signals correlated to increased suicide rates among different cohorts globally, across the socio-economic spectrum.
+The data I propose is to visualize for suicide prevention dataset that pulled from four other datasets linked by year and country, and was built to find signals correlated to increased suicide rates among different cohorts globally, across the socio-economic spectrum.
 
 References United Nations Development Program. (2018). Human development index (HDI). Retrieved from [source](http://hdr.undp.org/en/indicators/137506)
 
@@ -82,6 +82,6 @@ The following tasks and questions will drive the visualization and interaction d
 3- Find out the suicides rate on female/male and the GDP.
 
 ## Open Questions
-I don’t know how to resolve the Y axis due to the large number of countries per year. For example, the USA has data from 1985 to 2015? (30 years of suicide rate)?
-I don't know if I should resize something like the bar itself or the font size? I still working on this part.
-I don't know with a large dataset should I change the color for each bar? but the question is how many colores are enough?
+1)I don’t know how to resolve the Y axis due to the large number of countries per year. For example, the USA has data from 1985 to 2015? (30 years of suicide rate)?
+2)I don't know if I should resize something like the bar itself or the font size? I still working on this part.
+3)I don't know with a large dataset should I change the color for each bar? but the question is how many colores are enough?
