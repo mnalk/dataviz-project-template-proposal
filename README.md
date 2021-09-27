@@ -66,10 +66,10 @@ For example, it would be helpful to capture that male gender numbers who committ
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
 *  1)How many people are suicide in each country?
-* ** 2)Which age group has more suicide rates?
-* ** 3)Does low GDP per capita leads to suicide? What percentage? .Note(GDP per capita is calculated using a country's GDP in 2012 United States dollars (USD) which is then divided by the country's total population.)
-* ** 4)Who is more tend to suicide, male or female? .Note(Statistics. The incidence of completed suicide is vastly higher among males than females among all age groups in most of the world. As of 2015, almost two-thirds of worldwide suicides (representing about 1.5% of all deaths) are by men.)
-* ** 5)Is there any correlation between males who are suicide and GDP per capita for a specific country?
+* 2)Which age group has more suicide rates?
+* 3)Does low GDP per capita leads to suicide? What percentage? .Note(GDP per capita is calculated using a country's GDP in 2012 United States dollars (USD) which is then divided by the country's total population.)
+* 4)Who is more tend to suicide, male or female? .Note(Statistics. The incidence of completed suicide is vastly higher among males than females among all age groups in most of the world. As of 2015, almost two-thirds of worldwide suicides (representing about 1.5% of all deaths) are by men.)
+* 5)Is there any correlation between males who are suicide and GDP per capita for a specific country?
 
 
 ## Sketches
@@ -77,11 +77,11 @@ The following tasks and questions will drive the visualization and interaction d
 
 ![image](https://user-images.githubusercontent.com/70254281/134373006-83e46552-e38d-4bed-a7e7-fdc8f625cf44.jpeg)
 
-* ** 1- Selesct the year then select age grpup. 
-* ** 2-Zoom and pan on the map.
-* ** 3- Find out the suicides rate on female/male and the GDP.
+* 1- Selesct the year then select age grpup. 
+* 2-Zoom and pan on the map.
+* 3- Find out the suicides rate on female/male and the GDP.
 
 ## Open Questions
-* ** 1)I don’t know how to resolve the Y axis due to the large number of countries per year. For example, the USA has data from 1985 to 2015? (30 years of suicide rate)?
-* ** 2)I don't know if I should resize something like the bar itself or the font size? I still working on this part.
-* ** 3)I don't know with a large dataset should I change the color for each bar? but the question is how many colores are enough?
+* 1)I don’t know how to resolve the Y axis due to the large number of countries per year. For example, the USA has data from 1985 to 2015? (30 years of suicide rate)?
+* 2)I don't know if I should resize something like the bar itself or the font size? I still working on this part.
+* 3)I don't know with a large dataset should I change the color for each bar? but the question is how many colores are enough?
