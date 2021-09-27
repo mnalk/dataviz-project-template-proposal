@@ -1,5 +1,5 @@
 
-# Data Visualization Project Name : Suicide prevention visualization project
+# Data visualization project name : suicide prevention visualization project
 
 ## Data
 
