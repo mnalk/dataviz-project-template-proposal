@@ -33,7 +33,7 @@ Sketch for dataset(Number with depression by country)was a process to creat idea
 
 =================
 
-2)[Data set : Suicide rates vs prevalence of depressive disorder rates in vizhub](https://vizhub.com/mnalk/701a3a02e67641209795feeeb26c1493)
+2)[Data set : Suicide rates vs prevalence of depressive disorder rates in vizhub](https://vizhub.com/mnalk/12565fba83094a0da620f44c933912ac)
 This dataset help us to answer if depressoin leads to suicide? then what percentage?
 
 [Dataset description:](https://gist.github.com/mnalk/b84ad44d70b8ac709d1cefc01403a683#file-readme-md)
