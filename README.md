@@ -82,8 +82,17 @@ The following tasks and questions will drive the visualization and interaction d
 
 
 ![image](https://user-images.githubusercontent.com/70254281/134373006-83e46552-e38d-4bed-a7e7-fdc8f625cf44.jpeg)
-[![image](https://user-images.githubusercontent.com/70254281/134232441-34cf632a-9233-4227-b8d6-7a84c44f8ddd.GIF)](https://vizhub.com/mnalk/761c8d9681ae455c96ab92813271431b)
-[![image](https://user-images.githubusercontent.com/70254281/134232441-34cf632a-9233-4227-b8d6-7a84c44f8ddd.GIF)](https://vizhub.com/mnalk/761c8d9681ae455c96ab92813271431b)
+
+
+
+![GDP_PER_CAPITA](https://user-images.githubusercontent.com/70254281/137199180-dba65b29-3646-40b8-8a71-524d6ef49077.GIF)
+
+
+HERE
+[![image](https://user-images.githubusercontent.com/70254281/137199180-dba65b29-3646-40b8-8a71-524d6ef49077.GIF)](https://vizhub.com/mnalk/761c8d9681ae455c96ab92813271431b)
+
+
+[![image](https://user-images.githubusercontent.com/70254281/134232441-34cf632a-9233-4227-b8d6-7a84c44f8ddd.GIF)]()
 [![image](https://user-images.githubusercontent.com/70254281/134232441-34cf632a-9233-4227-b8d6-7a84c44f8ddd.GIF)](https://vizhub.com/mnalk/d9ce801e7d6a4e16a5c67cbe501f883e)
 
 
