@@ -90,10 +90,10 @@ The following tasks and questions will drive the visualization and interaction d
 
 HERE
 [![image](https://user-images.githubusercontent.com/70254281/137199180-dba65b29-3646-40b8-8a71-524d6ef49077.GIF)](https://vizhub.com/mnalk/761c8d9681ae455c96ab92813271431b)
-
+[![image](https://user-images.githubusercontent.com/70254281/137198347-841f1f3c-23c4-4e83-b296-b1468d344218.png)](https://vizhub.com/mnalk/d9ce801e7d6a4e16a5c67cbe501f883e)
 
 [![image](https://user-images.githubusercontent.com/70254281/134232441-34cf632a-9233-4227-b8d6-7a84c44f8ddd.GIF)]()
-[![image](https://user-images.githubusercontent.com/70254281/134232441-34cf632a-9233-4227-b8d6-7a84c44f8ddd.GIF)](https://vizhub.com/mnalk/d9ce801e7d6a4e16a5c67cbe501f883e)
+
 
 
 
