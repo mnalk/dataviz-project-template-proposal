@@ -77,6 +77,10 @@ The following tasks and questions will drive the visualization and interaction d
 
 
 ![image](https://user-images.githubusercontent.com/70254281/134373006-83e46552-e38d-4bed-a7e7-fdc8f625cf44.jpeg)
+[![image](https://user-images.githubusercontent.com/70254281/134232441-34cf632a-9233-4227-b8d6-7a84c44f8ddd.GIF)](https://vizhub.com/mnalk/761c8d9681ae455c96ab92813271431b)
+
+
+
 
 * Select the year, then select age groups by using dropdown menus.
 * Zoom and pan on the map.
