@@ -100,4 +100,4 @@ The following tasks and questions will drive the visualization and interaction d
 * Task 1: (Templet) of the map was inspired from [Migrant Deaths over Time](https://bl.ocks.org/curran/raw/a479b91bba14d633487e/?raw=true). I use this as a base to work on JSON files and related files as well. Then push to Github. This part is Done.
 * Task 2: I will work on dropdown menus to select ages dropdown menus 1: example age group 1: 20 -25. dropdown menu 2:  yers example year 1995. Time estimate: 2 weeks
 * Task 3: Tooltip guideline. For example, icons for females and males, also icons for high/low GDP: Time estimate: 2 weeks
-* Task 4: Add colors, and justify the Time estimate: 2 weeks
+* Task 4: Add colors, and refine the whole project. Time estimate: 2 weeks
