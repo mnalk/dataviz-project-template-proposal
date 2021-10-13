@@ -59,7 +59,7 @@ I've created a proof of concept visualization of this data. It's a suicide rates
 For example, it would be helpful to capture that male gender numbers who committed suicides in Russia were 22338 in 1994. This would help researchers find out other factors that affected males in particular in 1994.
 
 
-[![image](https://user-images.githubusercontent.com/70254281/134232441-34cf632a-9233-4227-b8d6-7a84c44f8ddd.GIF)](https://vizhub.com/mnalk/86cf45b181914194852f165c5146c597)
+
 
 ## Questions & Tasks
 
