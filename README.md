@@ -73,11 +73,16 @@ The following tasks and questions will drive the visualization and interaction d
 -Note(The incidence of completed suicide is vastly higher among males than females among all age groups in most of the world. As of 2015, almost two-thirds of worldwide suicides (representing about 1.5% of all deaths) are by men.)
 * Is there any correlation between males who are suicide and GDP per capita for a specific country?
 
-## Sketches
+## Sketches![SKETCH3](https://user-images.githubusercontent.com/70254281/137198337-a4d7a123-08bf-4964-bc29-d4c428519a8a.png)
+
+![SKETCH2](https://user-images.githubusercontent.com/70254281/137198347-841f1f3c-23c4-4e83-b296-b1468d344218.png)
+
 
 
 ![image](https://user-images.githubusercontent.com/70254281/134373006-83e46552-e38d-4bed-a7e7-fdc8f625cf44.jpeg)
 [![image](https://user-images.githubusercontent.com/70254281/134232441-34cf632a-9233-4227-b8d6-7a84c44f8ddd.GIF)](https://vizhub.com/mnalk/761c8d9681ae455c96ab92813271431b)
+[![image](https://user-images.githubusercontent.com/70254281/134232441-34cf632a-9233-4227-b8d6-7a84c44f8ddd.GIF)](https://vizhub.com/mnalk/761c8d9681ae455c96ab92813271431b)
+[![image](https://user-images.githubusercontent.com/70254281/134232441-34cf632a-9233-4227-b8d6-7a84c44f8ddd.GIF)](https://vizhub.com/mnalk/d9ce801e7d6a4e16a5c67cbe501f883e)
 
 
 
