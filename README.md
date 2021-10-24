@@ -101,3 +101,9 @@ The following tasks and questions will drive the visualization and interaction d
 * Task 2: I will work on dropdown menus to select ages dropdown menus 1: example age group 1: 20 -25. dropdown menu 2:  yers example year 1995. Time estimate: 2 weeks
 * Task 3: Tooltip guideline. For example, icons for females and males, also icons for high/low GDP: Time estimate: 2 weeks
 * Task 4: Add colors, and refine the whole project. Time estimate: 2 weeks
+
+## Iterated work 
+
+
+
+[![image](https://user-images.githubusercontent.com/70254281/138611502-7c706de6-842f-4a15-892e-07e38b4e5a27.GIF)](https://mnalk.github.io/vis/index.html)
