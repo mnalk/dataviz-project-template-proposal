@@ -109,7 +109,3 @@ In this version, 10/27/2021 , I noticed that the two dropdown means creating iss
 
 Brushing map on vishub :
 [![image](https://user-images.githubusercontent.com/70254281/139157190-f3ae9573-2708-43d9-bf4f-2f19e425c03c.GIF)](ttps://vizhub.com/mnalk/df74a298d1ec4af78f39f52a657a0853).
-
-
-
-
