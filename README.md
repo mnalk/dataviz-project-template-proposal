@@ -106,9 +106,10 @@ The following tasks and questions will drive the visualization and interaction d
 [![image](https://user-images.githubusercontent.com/70254281/138611502-7c706de6-842f-4a15-892e-07e38b4e5a27.GIF)](https://mnalk.github.io/vis/index.html).
 
 In this version, 10/27/2021 , I noticed that the two dropdown means creating issues, so I would work on this part to improve the dropdown menu interaction. I also want to try how brushing works on the map by selecting one or more data points,and I think it's worth trying it out. 
+
 Brushing map on vishub :
 [![image](https://user-images.githubusercontent.com/70254281/139157190-f3ae9573-2708-43d9-bf4f-2f19e425c03c.GIF)](ttps://vizhub.com/mnalk/df74a298d1ec4af78f39f52a657a0853).
-Brushing works 
+
 
 
 
