@@ -59,10 +59,7 @@ I've created a proof of concept visualization of this data. It's a suicide rates
 For example, it would be helpful to capture that male gender numbers who committed suicides in Russia were 22338 in 1994. This would help researchers find out other factors that affected males in particular in 1994.
 
 
-
-
 ## Questions & Tasks
-
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
 * How many people are suicide in each country on the map?
@@ -74,8 +71,6 @@ The following tasks and questions will drive the visualization and interaction d
 * Is there any correlation between males who are suicide and GDP per capita for a specific country?
 
 ## Sketches
-
-
 ![image](https://user-images.githubusercontent.com/70254281/134373006-83e46552-e38d-4bed-a7e7-fdc8f625cf44.jpeg)
 
 #Prototype 1
@@ -96,7 +91,6 @@ The following tasks and questions will drive the visualization and interaction d
 * I do not know with a large dataset, should I change the color for each bar? However, the question is, how many colors can humans preserve?
 
 ## Schedule of Deliverables
-
 * Task 1: (Templet) of the map was inspired from [Migrant Deaths over Time](https://bl.ocks.org/curran/raw/a479b91bba14d633487e/?raw=true). I use this as a base to work on JSON files and related files as well. Then push to Github. This part is Done.
 * Task 2: I will work on dropdown menus to select ages dropdown menus 1: example age group 1: 20 -25. dropdown menu 2:  yers example year 1995. Time estimate: 2 weeks
 * Task 3: Tooltip guideline. For example, icons for females and males, also icons for high/low GDP: Time estimate: 2 weeks
@@ -109,10 +103,6 @@ In this version, 10/27/2021 , I noticed that the two dropdown means creating iss
 
 Brushing map on vishub :
 [![image](https://user-images.githubusercontent.com/70254281/139157190-f3ae9573-2708-43d9-bf4f-2f19e425c03c.GIF)](https://vizhub.com/mnalk/df74a298d1ec4af78f39f52a657a0853).
-
-
-
-
 
 
 Work on your project itreation :
