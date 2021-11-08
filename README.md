@@ -115,9 +115,11 @@ Brushing map on vishub :
 
 
 
-Brushing map on vishub :
+Work on your project itreation :
 [![image](https://user-images.githubusercontent.com/70254281/140659774-68f36833-cbe8-4cec-9f1d-5b31baf1a4fe.png)](https://vizhub.com/mnalk/ee8312b21b714a7e93e02abb3a182536?file=README.md).
 
+A demonstration of how to bulid a heatmap with mouseover, and mouseleave behaviour in 3 distinct functions. The square style is slightly modified when the element is hovered. It allows to make more obvious which element is observed. In this exmple I used only subset of the dataset as follow:
 
+Japan Mexico Brazil Argentina Philippines Russia Turkey France .Then, I represent male and female suicide rates.
 
 
