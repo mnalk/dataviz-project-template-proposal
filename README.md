@@ -116,7 +116,7 @@ Japan Mexico Brazil Argentina Philippines Russia Turkey France .Then, I represen
 
 ## Iterated work  11/17/2021
 
-[![image](https://user-images.githubusercontent.com/70254281/142287239-3cbcbd7a-4665-4016-bbf9-12461143caf4.png)](https://d3js.slack.com/archives/C02C88WEE02/p1637191109202800).
+[![image](https://user-images.githubusercontent.com/70254281/142287239-3cbcbd7a-4665-4016-bbf9-12461143caf4.png)](https://vizhub.com/mnalk/275285a786384534b21a15445fdb1179).
 
 In this version I use [Tippy.js](https://atomiks.github.io/tippyjs/v6/getting-started/) and [Tippy.js for React](https://github.com/atomiks/tippyjs-react/) to add tooltip which integrates well with React. I created  my own theme called suicide to apply it for some part of the visulazation.
 
