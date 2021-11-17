@@ -104,7 +104,7 @@ In this version, 10/27/2021 , I noticed that the two dropdown means creating iss
 Brushing map on vishub :
 [![image](https://user-images.githubusercontent.com/70254281/139157190-f3ae9573-2708-43d9-bf4f-2f19e425c03c.GIF)](https://vizhub.com/mnalk/df74a298d1ec4af78f39f52a657a0853).
 
-# # # Notebook : 
+## Notebook : 
 [notebook_Suicide_Rates](https://github.com/mnalk/notebook_Suicide_Rates)
 
 Work on your project itreation :
@@ -113,5 +113,10 @@ Work on your project itreation :
 A demonstration of how to bulid a heatmap with mouseover, and mouseleave behaviour in 3 distinct functions. The square style is slightly modified when the element is hovered. It allows to make more obvious which element is observed. In this exmple I used only subset of the dataset as follow:
 
 Japan Mexico Brazil Argentina Philippines Russia Turkey France .Then, I represent male and female suicide rates.
+
+## Iterated work  11/17/2021
+
+[![image](https://user-images.githubusercontent.com/70254281/142287239-3cbcbd7a-4665-4016-bbf9-12461143caf4.png)](https://vizhub.com/mnalk/1143131caadd469488342450e0fd7562?edit=files&file=BubbleMap%2FMarks.js&mode=full).
+
 
 
