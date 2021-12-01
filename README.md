@@ -128,15 +128,6 @@ In this version I use [Tippy.js](https://atomiks.github.io/tippyjs/v6/getting-st
 
 
 ## Iterated work  12/01/2021
-
+My goal is to combine dashboards 1 and 2. Basically, I want to add the map to be the third component on my dashboard.
 
 [![image](https://user-images.githubusercontent.com/70254281/144258939-d05b389f-0996-4ec2-8e65-a3ecc8e87cd4.GIF)](https://vizhub.com/mnalk/de0a187e6f8f4ea7a14f5cb69a7089ed).
-
-
-
-
-
-
-
-
-
