@@ -123,7 +123,7 @@ In this version I use [Tippy.js](https://atomiks.github.io/tippyjs/v6/getting-st
 
 ## Iterated work  12/01/2021
 
-[![image](https://user-images.githubusercontent.com/70254281/143970829-fa9f23e8-8311-4ebe-81bc-104cc625bbd6.png)](https://vizhub.com/mnalk/275285a786384534b21a15445fdb1179).
+[![image](https://user-images.githubusercontent.com/70254281/143970829-fa9f23e8-8311-4ebe-81bc-104cc625bbd6.png)](https://vizhub.com/mnalk/76426e87c1994e7dad27a64c93c4a417?edit=files&file=index.html&mode=mini).
 
 
 
