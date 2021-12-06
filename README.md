@@ -131,3 +131,10 @@ In this version I use [Tippy.js](https://atomiks.github.io/tippyjs/v6/getting-st
 My goal is to combine dashboards 1 and 2. Basically, I want to add the map to be the third component on my dashboard.
 
 [![image](https://user-images.githubusercontent.com/70254281/144258939-d05b389f-0996-4ec2-8e65-a3ecc8e87cd4.GIF)](https://vizhub.com/mnalk/de0a187e6f8f4ea7a14f5cb69a7089ed).
+
+## Final project  12/08/2021
+
+[![image](https://user-images.githubusercontent.com/70254281/144796127-6516d720-5ea0-442e-b5d7-3bc380c11afe.png)](https://vizhub.com/mnalk/76426e87c1994e7dad27a64c93c4a417?edit=files&file=index.html&mode=mini).
+[Dashboard demo:](https://mnalk.github.io/Final_Dashboard/)
+[csv file:](https://gist.github.com/mnalk/d869d823ccb0ec67cfaecd3939469e39#file-prevalence-of-depression-by-age-csv)
+
