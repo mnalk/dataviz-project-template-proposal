@@ -135,6 +135,6 @@ My goal is to combine dashboards 1 and 2. Basically, I want to add the map to be
 ## Final project  12/08/2021
 
 [![image](https://user-images.githubusercontent.com/70254281/144796127-6516d720-5ea0-442e-b5d7-3bc380c11afe.png)](https://vizhub.com/mnalk/76426e87c1994e7dad27a64c93c4a417?edit=files&file=index.html&mode=mini).
-To play with the dashboard demo[please click here](https://mnalk.github.io/Final_Dashboard/)
+To play with the dashboard demo [please click here](https://mnalk.github.io/Final_Dashboard/)
 
 
