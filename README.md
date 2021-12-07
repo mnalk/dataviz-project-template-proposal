@@ -134,6 +134,8 @@ My goal is to combine dashboards 1 and 2. Basically, I want to add the map to be
 
 ## Final project  12/08/2021
 
+Here is my final dashboard description. This dashboard contains three parts: The first part is a double histogram to compare the distribution of two numeric variables (female vs. male) suicides number. The second part gathers multiple views of line charts in one view by using many SVG areas created for each group. The third part is an interactive map with a tooltip. By hovering over the map, we will show country name, GDP for the year, GDP per capita, population, suicides population. 
+
 [![image](https://user-images.githubusercontent.com/70254281/144797442-d3ef4282-d6ec-41b0-a782-54be704a8733.png)](https://vizhub.com/mnalk/76426e87c1994e7dad27a64c93c4a417?edit=files&file=index.html&mode=mini).
 
 
