@@ -96,7 +96,7 @@ The following tasks and questions will drive the visualization and interaction d
 * Task 3: Tooltip guideline. For example, icons for females and males, also icons for high/low GDP: Time estimate: 2 weeks
 * Task 4: Add colors, and refine the whole project. Time estimate: 2 weeks
 
-## Iterated work 
+## Iterated work (1):
 [![image](https://user-images.githubusercontent.com/70254281/138611502-7c706de6-842f-4a15-892e-07e38b4e5a27.GIF)](https://mnalk.github.io/vis/index.html).
 
 In this version, 10/27/2021 , I noticed that the two dropdown means creating issues, so I would work on this part to improve the dropdown menu interaction. I also want to try how brushing works on the map by selecting one or more data points,and I think it's worth trying it out. 
@@ -104,35 +104,35 @@ In this version, 10/27/2021 , I noticed that the two dropdown means creating iss
 Brushing map on vishub :
 [![image](https://user-images.githubusercontent.com/70254281/139157190-f3ae9573-2708-43d9-bf4f-2f19e425c03c.GIF)](https://vizhub.com/mnalk/df74a298d1ec4af78f39f52a657a0853).
 
-## Notebook : 
+##  Iterated work (2) Notebook : 
 [notebook_Suicide_Rates](https://github.com/mnalk/notebook_Suicide_Rates)
 
-Work on your project itreation :
+
 [![image](https://user-images.githubusercontent.com/70254281/140659774-68f36833-cbe8-4cec-9f1d-5b31baf1a4fe.png)](https://vizhub.com/mnalk/ee8312b21b714a7e93e02abb3a182536?file=README.md).
 
 A demonstration of how to bulid a heatmap with mouseover, and mouseleave behaviour in 3 distinct functions. The square style is slightly modified when the element is hovered. It allows to make more obvious which element is observed. In this exmple I used only subset of the dataset as follow:
 
 Japan Mexico Brazil Argentina Philippines Russia Turkey France .Then, I represent male and female suicide rates.
 
-## Iterated work  11/17/2021
+## Iterated work (3):
 
 [![image](https://user-images.githubusercontent.com/70254281/142287239-3cbcbd7a-4665-4016-bbf9-12461143caf4.png)](https://vizhub.com/mnalk/275285a786384534b21a15445fdb1179).
 
 In this version I use [Tippy.js](https://atomiks.github.io/tippyjs/v6/getting-started/) and [Tippy.js for React](https://github.com/atomiks/tippyjs-react/) to add tooltip which integrates well with React. I created  my own theme called suicide to apply it for some part of the visulazation.
 
 
-## Iterated work  12/01/2021
+## Iterated work (4):
 
 [![image](https://user-images.githubusercontent.com/70254281/143970829-fa9f23e8-8311-4ebe-81bc-104cc625bbd6.png)](https://vizhub.com/mnalk/76426e87c1994e7dad27a64c93c4a417?edit=files&file=index.html&mode=mini).
 
 
 
-## Iterated work  12/01/2021
+## Iterated work (5):
 My goal is to combine dashboards 1 and 2. Basically, I want to add the map to be the third component on my dashboard.
 
 [![image](https://user-images.githubusercontent.com/70254281/144258939-d05b389f-0996-4ec2-8e65-a3ecc8e87cd4.GIF)](https://vizhub.com/mnalk/de0a187e6f8f4ea7a14f5cb69a7089ed).
 
-## Final project  12/08/2021
+## Final project :
 
 Here is my final dashboard description. This dashboard contains three parts: The first part is a double histogram to compare the distribution of two numeric variables (female vs. male) suicides number. The second part gathers multiple views of line charts in one view by using many SVG areas created for each group. The third part is an interactive map with a tooltip. By hovering over the map, we will show country name, GDP for the year, GDP per capita, population, suicides population. 
 
