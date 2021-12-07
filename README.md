@@ -138,7 +138,7 @@ Here is my final dashboard description. This dashboard contains three parts: The
 
 [![image](https://user-images.githubusercontent.com/70254281/144797442-d3ef4282-d6ec-41b0-a782-54be704a8733.png)](https://vizhub.com/mnalk/76426e87c1994e7dad27a64c93c4a417?edit=files&file=index.html&mode=mini).
 
-
+Read me file for the project [please see here](https://gist.githubusercontent.com/mnalk/de3ec62d24de80c7b11232f1a4d1312d/raw/b8758493e05314b5c27e600d09e8ec51be175c11/README.md)
 
 To play with the dashboard demo [please click here](https://mnalk.github.io/Final_Dashboard/)
 
