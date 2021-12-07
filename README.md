@@ -138,12 +138,17 @@ Here is my final dashboard description. This dashboard contains three parts: The
 
 [![image](https://user-images.githubusercontent.com/70254281/144797442-d3ef4282-d6ec-41b0-a782-54be704a8733.png)](https://vizhub.com/mnalk/76426e87c1994e7dad27a64c93c4a417?edit=files&file=index.html&mode=mini).
 
-Questions and taskes :
-Who is more tends to suicide, males or females around the world?
-![image](https://user-images.githubusercontent.com/70254281/145074270-bda33307-f6d7-4efc-a829-bd11b53aabe9.png)
+Questions  :
 
-How many people are suicide in each country?
-![image](https://user-images.githubusercontent.com/70254281/145074302-c4cfe1ac-48d4-4185-b698-5df1fbe0c499.png)
+- Who is more tends to suicide, males or females around the world?
+- How many people are suicide in each country by viewing the inline chart?
+- How many people are suicide in each country by viewing on the map?
+
+Task:
+
+1- Comparing the distribution of two numeric variables in one view.
+2- Display more than one line chart on one view.
+3- Hover over the map will show country name, GDP for year, GDP per capita, population, suicides population.
 
 
 Read me file for the project [please see here](https://gist.githubusercontent.com/mnalk/de3ec62d24de80c7b11232f1a4d1312d/raw/b8758493e05314b5c27e600d09e8ec51be175c11/README.md)
