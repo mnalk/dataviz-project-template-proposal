@@ -146,9 +146,9 @@ Questions  :
 
 Task:
 
-1- Comparing the distribution of two numeric variables in one view.
-2- Display more than one line chart on one view.
-3- Hover over the map will show country name, GDP for year, GDP per capita, population, suicides population.
+- Comparing the distribution of two numeric variables in one view.
+- Display more than one line chart on one view.
+- Hover over the map will show country name, GDP for year, GDP per capita, population, suicides population.
 
 
 Read me file for the project [please see here](https://gist.githubusercontent.com/mnalk/de3ec62d24de80c7b11232f1a4d1312d/raw/b8758493e05314b5c27e600d09e8ec51be175c11/README.md)
